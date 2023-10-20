@@ -1,0 +1,17 @@
+.App {
+  background-color: whitesmoke;
+  padding: 20px;
+  font-family:  sans-serif;
+  color: rgb(0, 0, 38);
+}
+.App button {
+  border: none;
+  padding: 5px 15px;
+  background-color: darkslateblue;
+  border-radius: 2px;
+  cursor: pointer;
+  color: whitesmoke;
+}
+.App button:hover {
+  background-color: rgb(1, 223, 223);
+}
